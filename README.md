@@ -28,12 +28,12 @@ Here's an overview of my PARA structure:
 3. Navigate to the project directory in your terminal or command prompt.
 4. (Optional) Create a virtual environment:
 
-python -m venv para_env
-source para_env/bin/activate  # On Windows, use para_env\Scripts\activate
+   python -m venv para_env
+   source para_env/bin/activate  # On Windows, use para_env\Scripts\activate
 
 5. Install dependencies (although there are no external dependencies for this script):
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## 🚀 How to Use
 
