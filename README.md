@@ -67,3 +67,5 @@ By consistently using this PARA structure, I'm able to track my progress on vari
 ---
 
 This PARA method folder structure generator is my personal key to digital clarity and productivity. Here's to a more organized, efficient, and successful digital life! 🚀📂✨
+
+buymeacoffee.com/deepspeccode
